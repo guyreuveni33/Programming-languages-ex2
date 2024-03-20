@@ -1,9 +1,9 @@
-## OCaml Assignment: Implementing WHILE Language Semantics
+# OCaml Assignment: Implementing WHILE Language Semantics
 
 
 ## Overview
 
-This assignment involves the implementation of the semantics for a simplified version of the WHILE programming language using OCaml. The WHILE language consists of arithmetic expressions, boolean expressions, and commands, each of which can be represented by variants in OCaml.
+This assignment, completed as part of the "Programming Languages" course (קורס שפות תכנות), involves the implementation of the semantics for a simplified version of the WHILE programming language using OCaml. The WHILE language consists of arithmetic expressions, boolean expressions, and commands, each of which can be represented by variants in OCaml.
 
 ## Files
 
