@@ -1,4 +1,4 @@
-# OCaml Assignment: Implementing WHILE Language Semantics
+# OCaml Assignment 2: Implementing WHILE Language Semantics
 
 
 ## Overview
